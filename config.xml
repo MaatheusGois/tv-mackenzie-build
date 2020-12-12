@@ -13,10 +13,6 @@
     <description>
         Rádio e TV da Universidade Presbiteriana Mackenzie.
     </description>
-    <platform name="android">
-        <icon src="icon.png" />
-    </platform>
-    x
     <!-- this hook will point your config.xml to the DevServer on Serve -->
     <hook
     type="after_prepare"
