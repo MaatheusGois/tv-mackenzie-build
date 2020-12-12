@@ -6,7 +6,7 @@
   xmlns:cdv="http://cordova.apache.org/ns/1.0"
 >
     <platform name="android">
-        <icon src="icon.png" />
+        <icon src="./icon.png" />
     </platform>
 
     <name>Rádio TV Mackenzie</name>
